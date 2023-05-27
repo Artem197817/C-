@@ -1,0 +1,15 @@
+/home/artem/Рабочий стол/C#/Seminar3/bin/Debug/net7.0/Seminar3
+/home/artem/Рабочий стол/C#/Seminar3/bin/Debug/net7.0/Seminar3.deps.json
+/home/artem/Рабочий стол/C#/Seminar3/bin/Debug/net7.0/Seminar3.runtimeconfig.json
+/home/artem/Рабочий стол/C#/Seminar3/bin/Debug/net7.0/Seminar3.dll
+/home/artem/Рабочий стол/C#/Seminar3/bin/Debug/net7.0/Seminar3.pdb
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/Seminar3.csproj.AssemblyReference.cache
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/Seminar3.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/Seminar3.AssemblyInfoInputs.cache
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/Seminar3.AssemblyInfo.cs
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/Seminar3.csproj.CoreCompileInputs.cache
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/Seminar3.dll
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/refint/Seminar3.dll
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/Seminar3.pdb
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/Seminar3.genruntimeconfig.cache
+/home/artem/Рабочий стол/C#/Seminar3/obj/Debug/net7.0/ref/Seminar3.dll

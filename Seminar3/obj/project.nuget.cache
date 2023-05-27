@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ms4998IU+0VkZukR5TwamPe7UC/Wv/L203l8sQVtsZr6ir9F+cFNta1oU9XOdc57vD9rHS513+S7m5Fd0ylbWA==",
+  "success": true,
+  "projectFilePath": "/home/artem/Рабочий стол/C#/Seminar3/Seminar3.csproj",
+  "expectedPackageFiles": [
+    "/home/artem/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
