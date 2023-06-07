@@ -23,7 +23,7 @@ int [] Fill0 (int [] ar){
     }
     Random rnd = new Random();
     for (int i = 0;i < ar.Length;i++)
-        ar[i] = rnd.Next(l,k);
+        ar[i] = rnd.Next(l,k+1);
     return ar;
 }
 void CountEven (){
